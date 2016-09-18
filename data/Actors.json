@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1","characterIndex":5,"characterName":"!Flame","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Actor1","traits":[],"initialLevel":20,"maxLevel":99,"name":"ハロルド","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"ngsms","characterIndex":0,"characterName":"ngsms","classId":2,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Actor1","traits":[],"initialLevel":20,"maxLevel":99,"name":"ngsms1","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"ngsms","characterIndex":0,"characterName":"ngsms","classId":3,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Monster","traits":[],"initialLevel":20,"maxLevel":99,"name":"ngsms2","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"ngsms","characterIndex":0,"characterName":"ngsms","classId":4,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"Monster","traits":[],"initialLevel":20,"maxLevel":99,"name":"ngsms3","nickname":"","note":"","profile":""}
+]
